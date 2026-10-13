@@ -9,7 +9,7 @@ public class Main {
                 .tipoPao("BRIOCHE")
                 .addItem("X-Bacon")
                 .pagamentoPix()
-                .entregaDelivery("Rua Severino Severo, 123")
+                .entregaDelivery("Rua Exemplo, 123")
                 .comObservacao("Sem cebola")
                 .build();
 

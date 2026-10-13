@@ -4,11 +4,11 @@ public class Main {
     public static void main(String[] args) {
         FilaAtendimento filaAtendimento = new FilaAtendimento();
 
-        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Maria", "A001", "Prioritário"));
-        filaAtendimento.adicionarNaFila(new SenhaAtendimento("João", "A002", "Normal"));
-        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Carlos", "A003", "Financiamento"));
-        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Ana", "A004", "Agendamento"));
-        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pedro", "A005", "Suporte"));
+        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pessoa 1", "A001", "Prioritário"));
+        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pessoa 2", "A002", "Normal"));
+        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pessoa 3", "A003", "Financiamento"));
+        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pessoa 4", "A004", "Agendamento"));
+        filaAtendimento.adicionarNaFila(new SenhaAtendimento("Pessoa 5", "A005", "Suporte"));
 
         IteratorSenha iteratorSenha = filaAtendimento.criarIterator();
         Scanner scanner = new Scanner(System.in);

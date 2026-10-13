@@ -61,25 +61,25 @@ Abra o projeto no IntelliJ IDEA e execute a classe `Main`.
 ```
 ESTADO INICIAL
 Título: Atividade Memento
-Autor: Lázaro
+Autor: Fulano
 Conteúdo: Texto inicial do documento.
 Data de modificação: 13/10/2026 14:09
 --------------------------------
 ESTADO ATUAL
 Título: Atividade Memento
-Autor: Lázaro
+Autor: Fulano
 Conteúdo: Segunda alteração do documento.
 Data de modificação: 13/10/2026 14:09
 --------------------------------
 VERSÃO RESTAURADA
 Título: Atividade Memento
-Autor: Lázaro
+Autor: Fulano
 Conteúdo: Primeira alteração do documento.
 Data de modificação: 13/10/2026 14:09
 --------------------------------
 VERSÃO MAIS ANTIGA
 Título: Atividade Memento
-Autor: Lázaro
+Autor: Fulano
 Conteúdo: Texto inicial do documento.
 Data de modificação: 13/10/2026 14:09
 --------------------------------

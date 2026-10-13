@@ -71,12 +71,12 @@ Voo reservado para Recife
 Hotel reservado em Recife
 Transporte reservado no destino Recife
 Comprovante gerado.
-Confirmação enviada para joao@email.com com código RES 123
+Confirmação enviada para cliente1@exemplo.com com código RES 123
 Voo reservado para São Paulo
 Hotel reservado em São Paulo
 Transporte reservado no destino São Paulo
 Comprovante gerado.
-Confirmação enviada para maria@email.com com código RES 123
+Confirmação enviada para cliente2@exemplo.com com código RES 123
 ```
 
 ## Conceitos

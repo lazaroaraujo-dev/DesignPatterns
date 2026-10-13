@@ -18,7 +18,7 @@ public class Main {
                 new Laboratorio(central);
 
         Paciente paciente =
-                new Paciente("Lázaro", central);
+                new Paciente("Fulano", central);
 
         central.setRecepcao(recepcao);
         central.setMedico(medico);

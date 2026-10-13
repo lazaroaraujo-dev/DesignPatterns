@@ -3,10 +3,10 @@ public class Main {
 
         Conteudo conteudo = new FilmePremiumProxy();
 
-        Usuario usuario1 = new Usuario("Carlos", "PREMIUM");
-        Usuario usuario2 = new Usuario("Ana", "BASICO");
-        Usuario usuario3 = new Usuario("Marina", "PREMIUM");
-        Usuario usuario4 = new Usuario("Pedro", "BASICO");
+        Usuario usuario1 = new Usuario("Usuário 1", "PREMIUM");
+        Usuario usuario2 = new Usuario("Usuário 2", "BASICO");
+        Usuario usuario3 = new Usuario("Usuário 3", "PREMIUM");
+        Usuario usuario4 = new Usuario("Usuário 4", "BASICO");
 
         conteudo.assistir(usuario1);
         System.out.println();

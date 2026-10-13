@@ -58,15 +58,15 @@ Abra o projeto no IntelliJ IDEA e execute a classe `Main`.
 
 ```
 Pressione ENTER para mostrar a próxima pessoa da fila.
-Maria - A001
+Pessoa 1 - A001
 Pressione ENTER para mostrar a próxima pessoa da fila.
-João - A002
+Pessoa 2 - A002
 Pressione ENTER para mostrar a próxima pessoa da fila.
-Carlos - A003
+Pessoa 3 - A003
 Pressione ENTER para mostrar a próxima pessoa da fila.
-Ana - A004
+Pessoa 4 - A004
 Pressione ENTER para mostrar a próxima pessoa da fila.
-Pedro - A005
+Pessoa 5 - A005
 ```
 
 ## Conceitos

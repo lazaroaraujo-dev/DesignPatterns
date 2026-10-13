@@ -14,7 +14,7 @@ public class Main {
                 "PED-10",
                 90.0,
                 3.0,
-                "58540-000"
+                "00000-000"
         );
 
     System.out.println();
@@ -28,7 +28,7 @@ public class Main {
                 "PED-10",
                 90.0,
                 3.0,
-                "58540-000"
+                "00000-000"
         );
 
     }

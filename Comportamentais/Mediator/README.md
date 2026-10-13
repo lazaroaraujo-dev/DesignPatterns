@@ -72,7 +72,7 @@ Abra o projeto no IntelliJ IDEA e execute a classe `Main`.
 
 ```
 [PACIENTE]
-Lázaro chegou à clínica.
+Fulano chegou à clínica.
 
 [CENTRAL]
 Mensagem recebida: Paciente chegou.

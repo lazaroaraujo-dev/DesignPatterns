@@ -8,7 +8,7 @@ public class Main {
         Documento documento = new Documento(
                 "Atividade Memento",
                 "Texto inicial do documento.",
-                "Lázaro"
+                "Fulano"
         );
 
         System.out.println("ESTADO INICIAL");

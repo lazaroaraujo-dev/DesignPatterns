@@ -74,24 +74,24 @@ Ou abra o projeto no IntelliJ IDEA (arquivo `Observer.iml`) e execute a classe `
 
 ```
 --- PAGO ---
-EMAIL: Cliente Lázaro avisado sobre status PAGO
+EMAIL: Cliente Fulano avisado sobre status PAGO
 LOG: Pedido PED-001 alterado para PAGO
 DASHBOARD: Atualizando painel do pedido PED-001 com status PAGO
 ESTOQUE: Reservando itens do pedido PED-001
 FATURAMENTO: Gerando lançamento financeiro do pedido PED-001
 
 --- EM_SEPARACAO ---
-EMAIL: Cliente Lázaro avisado sobre status EM_SEPARACAO
+EMAIL: Cliente Fulano avisado sobre status EM_SEPARACAO
 LOG: Pedido PED-001 alterado para EM_SEPARACAO
 DASHBOARD: Atualizando painel do pedido PED-001 com status EM_SEPARACAO
 
 --- ENVIADO ---
-EMAIL: Cliente Lázaro avisado sobre status ENVIADO
+EMAIL: Cliente Fulano avisado sobre status ENVIADO
 LOG: Pedido PED-001 alterado para ENVIADO
 DASHBOARD: Atualizando painel do pedido PED-001 com status ENVIADO
 
 --- CANCELADO ---
-EMAIL: Cliente Lázaro avisado sobre status CANCELADO
+EMAIL: Cliente Fulano avisado sobre status CANCELADO
 LOG: Pedido PED-001 alterado para CANCELADO
 DASHBOARD: Atualizando painel do pedido PED-001 com status CANCELADO
 ESTOQUE: Devolvendo itens ao estoque do pedido PED-001

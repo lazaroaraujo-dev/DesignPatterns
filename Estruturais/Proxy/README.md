@@ -63,15 +63,15 @@ Abra o projeto no IntelliJ IDEA e execute a classe `Main`.
 ### Saída esperada
 
 ```
-Acesso liberado para Carlos
-Reproduzindo filme premium para Carlos
+Acesso liberado para Usuário 1
+Reproduzindo filme premium para Usuário 1
 
-Acesso negado para Ana conteúdo disponível apenas para usuários PREMIUM.
+Acesso negado para Usuário 2 conteúdo disponível apenas para usuários PREMIUM.
 
-Acesso liberado para Marina
-Reproduzindo filme premium para Marina
+Acesso liberado para Usuário 3
+Reproduzindo filme premium para Usuário 3
 
-Acesso negado para Pedro conteúdo disponível apenas para usuários PREMIUM.
+Acesso negado para Usuário 4 conteúdo disponível apenas para usuários PREMIUM.
 
 Erro esperado: Usuário inválido.
 ```

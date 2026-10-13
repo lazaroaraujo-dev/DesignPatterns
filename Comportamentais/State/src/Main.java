@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Chamado chamado = new Chamado("ABC-1", "Chamado realizado por Cliente VIP", "Joares");
+        Chamado chamado = new Chamado("ABC-1", "Chamado realizado por Cliente VIP", "Beltrano");
         chamado.resolver();
         chamado.iniciarAtendimento();
         chamado.aguardarCliente();
@@ -8,7 +8,7 @@ public class Main {
         chamado.responderCliente();
         chamado.resolver();
         chamado.cancelar();
-        Chamado chamado2 = new Chamado("ABC-2", "Chamado realizado por cliente Premium", "Damião");
+        Chamado chamado2 = new Chamado("ABC-2", "Chamado realizado por cliente Premium", "Sicrano");
         chamado2.cancelar();
         chamado2.iniciarAtendimento();
     }

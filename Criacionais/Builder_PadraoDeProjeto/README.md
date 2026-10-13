@@ -41,7 +41,7 @@ Itens:
 - X-Bacon
 Pão: BRIOCHE
 Entrega: Delivery
-Endereço de entrega: Rua Severino Severo, 123
+Endereço de entrega: Rua Exemplo, 123
 Observações: Sem cebola
 Tipo: PIZZA
 Tamanho: G
